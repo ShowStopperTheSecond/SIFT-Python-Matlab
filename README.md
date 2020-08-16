@@ -1,5 +1,5 @@
-# SIFT (Scale Invariant Feature Transfer)
-This code is an implementation for Anatomy of the SIFT method paper (IPOL Journal)
+# SIFT (Scale Invariant Feature Transfer) \n
+This code is an implementation for Anatomy of the SIFT method paper (IPOL Journal) \n
 You can find the paper at http://www.ipol.im/pub/art/2014/82/
 This paper is so well written
 Read the paper for detailed expalanation 
