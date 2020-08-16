@@ -1,8 +1,7 @@
 # SIFT (Scale Invariant Feature Transfer) 
 This code is an implementation for Anatomy of the SIFT method paper (IPOL Journal) <br>
 You can find the paper at http://www.ipol.im/pub/art/2014/82/<br>
-This paper is so well written<br>
-Read the paper for detailed expalanation <br>
+This paper is so well written read the paper for detailed expalanation <br>
 I did my best to follow the precedure mentioned in the main paper<br>
 There is a c++ implementation by the authers you can find on the link above<br>
 Here you can find the Python and Matlab source code <br>
